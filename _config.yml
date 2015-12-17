@@ -1,7 +1,7 @@
 name: Motech
 favicon: null
-layout_spectrum: 0.2083584840875119
-typography_spectrum: 0.2077280271332711
+layout_spectrum: 0.1148
+typography_spectrum: 0.3387
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6872018398717046
-  lightness: 0.16894380538724363
+    - '#f0e7ac'
+    - '#ffffff'
+    - '#8490a8'
+    - '#1b65ac'
+    - '#c6c6a9'
+  brandStrength: 0.75
+  lightness: 0.75
   saturation: 0.05048867780715227
-  rhythmicContrast: 0.3964155151043087
+  rhythmicContrast: 0.75
 purpose: []
