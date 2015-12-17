@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Motech]]></title>
+        <description><![CDATA[Motech]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 18:12:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Use MailChimp’s Groups and Segments to Send Religious School Emails]]></title>
+            <description><![CDATA[<article><h1>How to Use MailChimp’s Groups and Segments to Send Religious School Emails</h1><p>This is some text.</p></article>]]></description>
+            <link>undefinedhow-to-use-mailchimps-groups-and-segments-to-send-religious/index.html</link>
+            <guid isPermaLink="false">ed1cb7e4-d428-40f9-9313-47f37712af41</guid>
+            <pubDate>Thu, 17 Dec 2015 18:12:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
