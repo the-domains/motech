@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Motech]]></title>
-        <description><![CDATA[Motech]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Motech Agency]]></title>
+        <description><![CDATA[The Motech Agency]]></description>
+        <link>https://thegrid.ai/motech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 18:12:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 18:33:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/motech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to Use MailChimp’s Groups and Segments to Send Religious School Emails]]></title>
             <description><![CDATA[<article><h1>How to Use MailChimp’s Groups and Segments to Send Religious School Emails</h1><p>This is some text.</p></article>]]></description>
-            <link>undefinedhow-to-use-mailchimps-groups-and-segments-to-send-religious/index.html</link>
+            <link>https://thegrid.ai/motech/how-to-use-mailchimps-groups-and-segments-to-send-religious/index.html</link>
             <guid isPermaLink="false">ed1cb7e4-d428-40f9-9313-47f37712af41</guid>
             <pubDate>Thu, 17 Dec 2015 18:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Display Hebrew Dates in Google Calendar]]></title>
+            <description><![CDATA[<article><h1>How to Display Hebrew Dates in Google Calendar</h1><p>You can now display Hebrew calendar dates (alongside the normal Gregorian headings) in Google Calendar on the web. To enable it:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5694a34a441c7ac03bba4feba100c14598c5687e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/motech/how-to-display-hebrew-dates-in-google-calendar/index.html</link>
+            <guid isPermaLink="false">8a78f689-935b-47a3-b4d6-58b021ea81a9</guid>
+            <pubDate>Thu, 17 Dec 2015 18:33:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
